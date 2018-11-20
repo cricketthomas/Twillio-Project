@@ -6,3 +6,5 @@ For this Project, me and my partner decided to build something practical that co
 We wanted the project to be relatively user friendly, so we implemented an error checking procedures so that that typo's/spelling would not hinder the overall results of the program. 
 We would have liked to declare all the API calls into one function or class, however, the twilio API is finicky, and we could not save the text responses, so the last response had to contain all the information. We used Regrex to extract the numbers from to add those to the API call to retrieve the information.
 
+### Screenshots
+<img src="IMG_3415.PNG"  width="300px" /><img src="IMG_3416.PNG"  width="300px" />
